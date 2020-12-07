@@ -6,13 +6,16 @@ public class ColourStart : MonoBehaviour
 {
     public Color32[] colours;
 
-	private int col;
+	int col;
+	
+	Renderer objRend;
 
 	void Start()
     {
         int col = Random.Range(0, colours.Length);
         
-        Mesh mesh = GetComponent<MeshFilter>().mesh;
-        //mesh.colors = colours[col];
-	}
+        objRend = GetComponent<Renderer>();
+
+        objRend.material.color = colours[col];
+    }
 }

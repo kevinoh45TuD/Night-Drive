@@ -107,10 +107,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colours:
-  - {fileID: 2100000, guid: 40cc23fe713505e4590ff651686a023b, type: 2}
-  - {fileID: 2100000, guid: e46c24432b438c840b866e778947d9db, type: 2}
-  - {fileID: 2100000, guid: 3c754c2c0f661ab4cae1f6bf57f05f45, type: 2}
-  - {fileID: 2100000, guid: 3bbbff6aedaf47e4992de55e434c4e35, type: 2}
+  - serializedVersion: 2
+    rgba: 4284443647
+  - serializedVersion: 2
+    rgba: 4284467455
+  - serializedVersion: 2
+    rgba: 4284349951
+  - serializedVersion: 2
+    rgba: 4287233875
+  - serializedVersion: 2
+    rgba: 4294836051
+  - serializedVersion: 2
+    rgba: 4294931795
+  - serializedVersion: 2
+    rgba: 4294923161
 --- !u!1 &7379597350756053466
 GameObject:
   m_ObjectHideFlags: 0
@@ -251,10 +261,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colours:
-  - {fileID: 2100000, guid: 40cc23fe713505e4590ff651686a023b, type: 2}
-  - {fileID: 2100000, guid: e46c24432b438c840b866e778947d9db, type: 2}
-  - {fileID: 2100000, guid: 3c754c2c0f661ab4cae1f6bf57f05f45, type: 2}
-  - {fileID: 2100000, guid: 3bbbff6aedaf47e4992de55e434c4e35, type: 2}
+  - serializedVersion: 2
+    rgba: 4284443647
+  - serializedVersion: 2
+    rgba: 4284467455
+  - serializedVersion: 2
+    rgba: 4284349951
+  - serializedVersion: 2
+    rgba: 4287233875
+  - serializedVersion: 2
+    rgba: 4294836051
+  - serializedVersion: 2
+    rgba: 4294931795
+  - serializedVersion: 2
+    rgba: 4294923161
 --- !u!114 &5543036302093025425
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -262,7 +282,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7379597350756053466}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72c410c8e0db78e458e835b1d1206974, type: 3}
   m_Name: 
@@ -271,7 +291,7 @@ MonoBehaviour:
     type: 3}
   xPos: 10
   zPos: 200
-  obstacleAmount: 16
+  obstacleAmount: 1
 --- !u!1 &7895846759464520782
 GameObject:
   m_ObjectHideFlags: 0
@@ -379,7 +399,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colours:
-  - {fileID: 2100000, guid: 40cc23fe713505e4590ff651686a023b, type: 2}
-  - {fileID: 2100000, guid: e46c24432b438c840b866e778947d9db, type: 2}
-  - {fileID: 2100000, guid: 3c754c2c0f661ab4cae1f6bf57f05f45, type: 2}
-  - {fileID: 2100000, guid: 3bbbff6aedaf47e4992de55e434c4e35, type: 2}
+  - serializedVersion: 2
+    rgba: 4284443647
+  - serializedVersion: 2
+    rgba: 4284467455
+  - serializedVersion: 2
+    rgba: 4284349951
+  - serializedVersion: 2
+    rgba: 4287233875
+  - serializedVersion: 2
+    rgba: 4294836051
+  - serializedVersion: 2
+    rgba: 4294931795
+  - serializedVersion: 2
+    rgba: 4294923161

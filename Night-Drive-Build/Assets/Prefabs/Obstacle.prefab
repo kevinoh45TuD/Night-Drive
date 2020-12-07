@@ -16,9 +16,9 @@ GameObject:
   - component: {fileID: 4775104800363390147}
   - component: {fileID: 4151985531663529900}
   - component: {fileID: 634175328089609391}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Obstacle
-  m_TagString: Untagged
+  m_TagString: bound
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,10 +110,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colours:
-  - {fileID: 2100000, guid: 40cc23fe713505e4590ff651686a023b, type: 2}
-  - {fileID: 2100000, guid: e46c24432b438c840b866e778947d9db, type: 2}
-  - {fileID: 2100000, guid: 3c754c2c0f661ab4cae1f6bf57f05f45, type: 2}
-  - {fileID: 2100000, guid: 3bbbff6aedaf47e4992de55e434c4e35, type: 2}
+  - serializedVersion: 2
+    rgba: 4284443647
+  - serializedVersion: 2
+    rgba: 4284467455
+  - serializedVersion: 2
+    rgba: 4284349951
+  - serializedVersion: 2
+    rgba: 4287233875
+  - serializedVersion: 2
+    rgba: 4294836051
+  - serializedVersion: 2
+    rgba: 4294931795
+  - serializedVersion: 2
+    rgba: 4294923161
 --- !u!114 &4775104800363390147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126,9 +136,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61acb371eed1d3442abdaec5527706e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stackChance: 50
+  stackChance: 60
   self: {fileID: 6153857115418717169}
-  heightCube: 1
+  heightCube: 0.5
 --- !u!114 &4151985531663529900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c008be623009814fba49e11a4277c91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6.66667
+  speed: 10
 --- !u!114 &634175328089609391
 MonoBehaviour:
   m_ObjectHideFlags: 0
