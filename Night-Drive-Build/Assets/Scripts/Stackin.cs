@@ -14,7 +14,7 @@ public class Stackin : MonoBehaviour
     {
         int stackChance = Random.Range(0, 100);
 
-        if (stackChance >= 50)
+        if (stackChance >= 60)
         {
             Vector3 pos = new Vector3(0, heightCube, 0);
             Instantiate(self, transform.position+pos, transform.rotation);

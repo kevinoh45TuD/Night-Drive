@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ColourStart : MonoBehaviour
 {
-    public Material[] colours;
+    public Color32[] colours;
 
 	private int col;
 
@@ -12,7 +12,7 @@ public class ColourStart : MonoBehaviour
     {
         int col = Random.Range(0, colours.Length);
         
-        MeshRenderer mesh = gameObject.GetComponent<MeshRenderer>();
-        mesh.material = colours[col];
+        Mesh mesh = GetComponent<MeshFilter>().mesh;
+        //mesh.colors = colours[col];
 	}
 }

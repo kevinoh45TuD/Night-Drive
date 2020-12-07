@@ -15,7 +15,7 @@ public class SimpleMove : MonoBehaviour
     void Update() 
     {
         t += Time.deltaTime/timeToReachTarget;
-        transform.position = Vector3.Lerp(startPosition, target, t);
+        transform.position = new Vector3(0, 0, (Mathf.Lerp(startPosition.z, target.z, t)));
     }
     public void SetDestination(Vector3 destination, float time)
     {
