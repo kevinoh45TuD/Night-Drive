@@ -1028,11 +1028,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paths:
-  - {fileID: 7379597350756053466, guid: a7a00619e38cd5449b6e7359116d7b62, type: 3}
-  - {fileID: 7379597350756053466, guid: 39f8bd4e64bb7cb41aa7897362b4624a, type: 3}
+  - {fileID: 6857174186431405809, guid: a147a5936d9f00947a23ee3fd915f647, type: 3}
   reset: {x: 0, y: 0, z: 200}
   pathAmount: 2
-  shapeSpace: 5
+  shapeSpace: 25
   timer: 0
   timerMax: 0.375
 --- !u!54 &1011634502
@@ -1069,7 +1068,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1596516483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1632,3 +1631,95 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b02a9603a3788d045ba8b0714d1baf08, type: 3}
+--- !u!1001 &2973949288082146368
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6857174186431405809, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_Name
+      value: Road
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646482955874268133, guid: a147a5936d9f00947a23ee3fd915f647,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a147a5936d9f00947a23ee3fd915f647, type: 3}
+--- !u!1 &8533200382716893873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6857174186431405809, guid: a147a5936d9f00947a23ee3fd915f647,
+    type: 3}
+  m_PrefabInstance: {fileID: 2973949288082146368}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8533200382716893874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8533200382716893873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cffbdd7d8f72784789de489b34835cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  optionNum: 0
+  blockSet1: []
+  blockSet2: []
+  blockSet3: []
+  blockSet4: []

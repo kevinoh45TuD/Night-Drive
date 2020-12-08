@@ -15,12 +15,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyCube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loading.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/BoxBool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/BoxBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ScaleChange.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/spawnWater.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleSpawn.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,6 +39,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyCube.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +94,7 @@
       <workItem from="1607045498368" duration="15000" />
       <workItem from="1607045544163" duration="612000" />
       <workItem from="1607344005336" duration="5223000" />
+      <workItem from="1607383444901" duration="1578000" />
     </task>
     <servers />
   </component>
