@@ -26,7 +26,7 @@ public class Loading : MonoBehaviour
             //timer = 0;
         }
 
-        timerText.text = "Loading: " + timerDisplay.ToString(("0.00")) + "%";
+        timerText.text = "Loading: " + timerDisplay.ToString(("0.0")) + "%";
     }
 
     void timerDone()

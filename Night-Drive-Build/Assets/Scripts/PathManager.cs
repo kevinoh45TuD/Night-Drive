@@ -9,7 +9,7 @@ public class PathManager : MonoBehaviour
 
     public Vector3 reset;
 
-    public int pathAmount;
+    //public int pathAmount;
 
     public float shapeSpace;
     
@@ -17,11 +17,9 @@ public class PathManager : MonoBehaviour
     
     public float timerMax = 3.0f; // event occurs at this value
     
+    public float totalDist, pathAmount, pathSize, pathSpeed, timeTillEnd;
     
-
-    //public float wait;
-    
-    void Start()
+    void OnEnable()
     {
         //wait = timeToReach / pathAmount;
         
@@ -31,9 +29,13 @@ public class PathManager : MonoBehaviour
             Vector3 pos = new Vector3(0, 0, 5f + (p * shapeSpace));
             
             Instantiate(paths[0], pos, transform.rotation);
-        } */
+        } 
+        */
         
-        
+        totalDist = pathAmount * pathSize;
+        timeTillEnd = totalDist / pathSpeed;
+
+        reset.z = pathSize * pathAmount;
     }
     
     private int pathNum;
@@ -49,6 +51,8 @@ public class PathManager : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
+
+        timerMax = pathSize / pathSpeed;
         
         if (timer >= timerMax)
         {

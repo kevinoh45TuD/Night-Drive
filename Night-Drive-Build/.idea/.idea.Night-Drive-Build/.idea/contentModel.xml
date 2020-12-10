@@ -17,6 +17,7 @@
           <e p="ObstacleSpawn.cs" t="Include" />
           <e p="ParentThis.cs" t="Include" />
           <e p="PathManager.cs" t="Include" />
+          <e p="Rotate.cs" t="Include" />
           <e p="SimpleMove.cs" t="Include" />
           <e p="Stackin.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
