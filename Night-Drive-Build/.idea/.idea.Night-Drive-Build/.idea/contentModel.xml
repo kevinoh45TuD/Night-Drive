@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="BlocksEnable.cs" t="Include" />
           <e p="CarController.cs" t="Include" />
+          <e p="carNow.cs" t="Include" />
           <e p="ColourLerp.cs" t="Include" />
           <e p="ColourStart.cs" t="Include" />
           <e p="DestroyCube.cs" t="Include" />

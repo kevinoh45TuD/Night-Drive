@@ -103,7 +103,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4361859903499252}
-  - component: {fileID: 8948054488081380027}
   m_Layer: 0
   m_Name: car-passenger
   m_TagString: Untagged
@@ -130,19 +129,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &8948054488081380027
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1155766505344668}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.9054527, y: 1.5237422, z: 4.692825}
-  m_Center: {x: -0.008877039, y: 0.7318711, z: 0.00000071525574}
 --- !u!1 &1276905232269880
 GameObject:
   m_ObjectHideFlags: 0

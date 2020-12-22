@@ -20,8 +20,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/carNow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ScaleChange.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -45,6 +46,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
       </list>
     </option>
   </component>
@@ -101,6 +103,8 @@
       <workItem from="1607344005336" duration="5223000" />
       <workItem from="1607383444901" duration="5823000" />
       <workItem from="1607612777545" duration="5549000" />
+      <workItem from="1608657196985" duration="596000" />
+      <workItem from="1608659636320" duration="1244000" />
     </task>
     <servers />
   </component>

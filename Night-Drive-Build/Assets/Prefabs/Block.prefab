@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3196794874957351339}
   - component: {fileID: 6744949510094074658}
   - component: {fileID: 2297215475279763723}
+  - component: {fileID: 3719735691567081411}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -93,3 +94,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3719735691567081411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8658130916099435411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8ec9b84f38a3641878c16f1ae64046, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vehicleObj:
+  - {fileID: 1155766505344668, guid: 8e79e3b3e7ad3447f8a9d49dee037068, type: 3}
+  - {fileID: 1908895531624282, guid: 22cac3ac4ce0640f2bae173eb93d9781, type: 3}
+  whichVehicle: 0
