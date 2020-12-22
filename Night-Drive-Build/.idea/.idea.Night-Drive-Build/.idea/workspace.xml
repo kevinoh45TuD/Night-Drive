@@ -19,15 +19,18 @@
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/BoxBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/carNow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ScaleChange.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/spawnWater.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/FrogMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stackin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
@@ -45,8 +48,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" />
       </list>
     </option>
   </component>
@@ -59,6 +66,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +112,7 @@
       <workItem from="1607383444901" duration="5823000" />
       <workItem from="1607612777545" duration="5549000" />
       <workItem from="1608657196985" duration="596000" />
-      <workItem from="1608659636320" duration="3578000" />
+      <workItem from="1608659636320" duration="9215000" />
     </task>
     <servers />
   </component>

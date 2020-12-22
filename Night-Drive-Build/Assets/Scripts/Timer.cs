@@ -19,7 +19,7 @@ public class Timer : MonoBehaviour
      
         if (timer >= timerMax)
         {
-            Debug.Log("timerMax reached !");
+           // Debug.Log("timerMax reached !");
             
             timer = 0.0f;
         }
