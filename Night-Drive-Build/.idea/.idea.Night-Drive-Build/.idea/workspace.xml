@@ -43,9 +43,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SimpleMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PathManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
       </list>
     </option>
@@ -104,7 +104,7 @@
       <workItem from="1607383444901" duration="5823000" />
       <workItem from="1607612777545" duration="5549000" />
       <workItem from="1608657196985" duration="596000" />
-      <workItem from="1608659636320" duration="1244000" />
+      <workItem from="1608659636320" duration="2986000" />
     </task>
     <servers />
   </component>
