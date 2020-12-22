@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 0
-  timerGoal: 0
+  timerGoal: 25
   timerDisplay: 0
   timerText: {fileID: 125186326}
   canvas: {fileID: 1596516482}
@@ -817,7 +817,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 983041771}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 591, z: 10}
+  m_LocalPosition: {x: 0, y: 10, z: 20}
   m_LocalScale: {x: 2, y: 1, z: 3}
   m_Children:
   - {fileID: 963194228}
@@ -856,7 +856,7 @@ BoxCollider:
   m_GameObject: {fileID: 1011634498}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 25, y: 5, z: 5}
   m_Center: {x: 0, y: 0, z: 0}
