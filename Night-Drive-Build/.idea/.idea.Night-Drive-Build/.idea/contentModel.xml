@@ -4,8 +4,37 @@
     <e p="C:\Users\Kevin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Kevin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Night-Drive-Build.-1058278229.00" t="ExcludeRecursive" />
     <e p="D:\GitHubStuff\Night-Drive\Night-Drive\Night-Drive-Build" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="THOR_Thunderstorm" t="Include">
+            <e p="Example Scene" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="THOR_DemoCameraController.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Sources" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="THOR_LightningBolt.shader" t="Include" />
+                  <e p="THOR_LightningCloud.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="THOR_ThunderstormEditor.cs" t="Include" />
+                </e>
+                <e p="THOR_Lightning.cs" t="Include" />
+                <e p="THOR_SheetLightning.cs" t="Include" />
+                <e p="THOR_Thunderstorm.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="BlocksEnable.cs" t="Include" />
           <e p="CarController.cs" t="Include" />
