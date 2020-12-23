@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/keepAway.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/carNow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ScaleChange.cs" root0="SKIP_HIGHLIGHTING" />
@@ -47,13 +48,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PathManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
         <option value="$PROJECT_DIR$/Assets/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/keepAway.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
       </list>
     </option>
   </component>
@@ -113,7 +115,7 @@
       <workItem from="1607612777545" duration="5549000" />
       <workItem from="1608657196985" duration="596000" />
       <workItem from="1608659636320" duration="9777000" />
-      <workItem from="1608742169727" duration="486000" />
+      <workItem from="1608742169727" duration="4191000" />
     </task>
     <servers />
   </component>
