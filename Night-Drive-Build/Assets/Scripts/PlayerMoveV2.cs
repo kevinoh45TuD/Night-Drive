@@ -53,5 +53,14 @@ public class PlayerMoveV2 : MonoBehaviour
             
             transform.position -= new Vector3(5,0,0 );
         }
+        
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Enemy")
+        {
+            Debug.Log("hit!");
+        }
     }
 }
