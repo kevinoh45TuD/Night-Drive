@@ -24,7 +24,7 @@ You can also use the 'O' and 'P' keys to cyle through the music!
 
 # How it works
 
-As described before i have a list of prefabs for obstacles. These obstacles include other cars and general road obstructions such cones.
+As described before i have a list of prefabs for obstacles. These obstacles include other cars and general road obstructions such rubbish bins.
 These path tiles will start with a set amount spawned at the beginning of the game. These paths will continue to be spawned in front of where the player is going.
 Once this happens a previous path will be removed behind the player to save on resources.
 
