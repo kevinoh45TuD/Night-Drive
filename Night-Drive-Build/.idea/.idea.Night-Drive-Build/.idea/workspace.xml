@@ -12,29 +12,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyCube.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loading.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/BoxBool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/keepAway.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/carNow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ScaleChange.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/spawnWater.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleSpawn.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/FrogMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stackin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/keepAway.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/Countdown.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/RetroRun-master/RetroRun-master/RetroRun/Assets/Scripts/AudioPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../RandomRogue/Rando/Rando/Assets/Scripts/ColourChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/spawnWater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Tiddalik/Tiddalik/Assets/Scripts/FrogMovement.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,16 +48,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SimpleMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PathManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
         <option value="$PROJECT_DIR$/Assets/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BlocksEnable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" />
         <option value="$PROJECT_DIR$/Assets/keepAway.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColourLerp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoveV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathManagerV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Loading.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/carNow.cs" />
       </list>
     </option>
   </component>
@@ -115,7 +118,8 @@
       <workItem from="1607612777545" duration="5549000" />
       <workItem from="1608657196985" duration="596000" />
       <workItem from="1608659636320" duration="9777000" />
-      <workItem from="1608742169727" duration="4191000" />
+      <workItem from="1608742169727" duration="4785000" />
+      <workItem from="1608811065434" duration="5306000" />
     </task>
     <servers />
   </component>

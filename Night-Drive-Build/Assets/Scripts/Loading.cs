@@ -5,33 +5,28 @@ using UnityEngine.UI;
 
 public class Loading : MonoBehaviour
 {
-    public float timer = 0f;
-    public float timerGoal = 15f;
-    public float timerDisplay;
+    public GameObject player;
 
-    public Text timerText;
+    public Text distance;
 
-    public GameObject canvas;
-    public GameObject car;
+    public float moveAmount;
+
+    public bool Thunder;
+    public GameObject Thor;
 
     void Update()
     {
-        timer += 1 * Time.deltaTime;
-        timerDisplay = (timer / timerGoal) * 100f;
-        
-        if (timer >= timerGoal)
+        moveAmount = (player.transform.position.z) / 100f;
+        distance.text = "Distance Travelled: " + moveAmount.ToString(("0.0")) + "Km";
+
+        if (Thunder)
         {
-            timerDone();
-
-            //timer = 0;
+            Thor.SetActive(true);
         }
-
-        timerText.text = "Loading: " + timerDisplay.ToString(("0.0")) + "%";
+        else if (!Thunder)
+        {
+            Thor.SetActive(false);
+        }
     }
 
-    void timerDone()
-    {
-        canvas.SetActive(false);
-        car.SetActive(true);
-    }
 }

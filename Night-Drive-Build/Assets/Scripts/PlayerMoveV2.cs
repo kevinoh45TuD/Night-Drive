@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMoveV2 : MonoBehaviour
 {
@@ -61,6 +62,8 @@ public class PlayerMoveV2 : MonoBehaviour
         if (other.gameObject.tag == "Enemy")
         {
             Debug.Log("hit!");
+            
+            SceneManager.LoadScene("Game");
         }
     }
 }

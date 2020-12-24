@@ -37,6 +37,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AudioPlayer.cs" t="Include" />
           <e p="BlocksEnable.cs" t="Include" />
           <e p="CarController.cs" t="Include" />
           <e p="carNow.cs" t="Include" />
