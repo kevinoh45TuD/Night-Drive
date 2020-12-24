@@ -30,6 +30,10 @@ public class AudioPlayer : MonoBehaviour
             loading.Thunder = true;
             
         }
+        else if (currentTrack != 2)
+        {
+            loading.Thunder = false;
+        }
         
         songName.text = "Song: " + GetComponent<AudioSource>().clip.name;
       
